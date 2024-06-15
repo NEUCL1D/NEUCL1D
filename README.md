@@ -1,4 +1,5 @@
 Hello, I'm Ryad Gamouda 👋
+
 🌍 Algerian student passionate about operating systems design and discrete mathematics.
 
 🎓 Currently pursuing Computer Science and Engineering.
